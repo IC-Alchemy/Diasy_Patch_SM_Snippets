@@ -1,4 +1,4 @@
-### Quick Manual for DaisyPatchSM Audio Processing by GPT
+### Quick Manual for DaisyPatchSM Audio Processing 
 
 #### Overview
  The code integrates various components such as an ADSR envelope, a looper, and a reverb effect.
@@ -18,3 +18,5 @@
   - `button2` switches through the looper's modes and toggles reverse playback when held.
 
 This manual provides a concise overview of the system's capabilities and usage. For more detailed information on specific functions or components, refer to the respective documentation of the DaisyPatchSM and DaisySP libraries.
+
+This manual written mostly by GPT4
