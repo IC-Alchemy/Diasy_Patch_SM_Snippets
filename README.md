@@ -1,7 +1,7 @@
 # Diasy_Patch_SM_Snippets
 Collection of code and some compiled binaries for Patch_SM
 
-##LoopVerblope
+## LoopVerblope
 - Looper with reverb, and a seperate ASDR envelope with CV out because why not with a Daisy?
 - Loop can be triggered from the gate input for perfectly timed loops, or from a button
 - CV control over the release time of envelope sounds great
